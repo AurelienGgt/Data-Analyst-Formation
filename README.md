@@ -4,7 +4,11 @@ Link to the training: https://openclassrooms.com/fr/paths/324-data-analyst
 
 In this training, I had to complete a series of 10 projects, but for GitHub, I decided to only upload the 5 Python projects.
 
+------------------------------------------
+
 Project 1: Conduct a Public Health Study:
+
+------------------------------------------
 
 Get started with Python by analyzing FAO data on world hunger.
 
