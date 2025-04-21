@@ -1,4 +1,6 @@
 <h1 align="center">📊 Data Analyst Formation </h1> 
+
+The formation was done in 2021-2022. Some part of the formation changed.
   
   [**Link to the formation**](https://openclassrooms.com/fr/paths/324-data-analyst#projects)
 
